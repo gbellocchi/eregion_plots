@@ -1,4 +1,4 @@
-# <span> **<span style="font-variant:small-caps;">⚒️ Eregion Plots ⚒️</span>**</span>
+# <span> **<span style="font-variant:small-caps;">⚒️ Eregion Plots</span>**</span>
 A Python library for forging charts of unparalleled craft under the guidance of Lord Celebrimbor and the master elven-smiths of the Gwaith-i-Mírdain. From raw data to artifacts of light, we shape the unseen.
 
 ## Contact
